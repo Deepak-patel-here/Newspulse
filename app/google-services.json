@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "257520453398",
+    "project_id": "newspulse-53fb3",
+    "storage_bucket": "newspulse-53fb3.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:257520453398:android:71256942c6e1d685203237",
+        "android_client_info": {
+          "package_name": "com.deepakjetpackcompose.newspulse"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYk2uEbfl3f0tbzrbfJfBFmTjKbtRULBc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
